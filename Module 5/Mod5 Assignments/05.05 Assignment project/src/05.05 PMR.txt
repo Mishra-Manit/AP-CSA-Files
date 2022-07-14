@@ -1,0 +1,19 @@
+PROJECT TITLE: Basketball Player
+PURPOSE OF PROJECT: Write a program to calculate the averages of dribbles per minute between 2 players.
+VERSION or DATE: 11/28/21
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to figure out how to have a main class and a tester class. Everything else
+      was similar to what we did before.
+
+
+<-S>: I kept forgetting to put all of the formatting and print statements into a separate
+      method.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to always have a separate method just for print statements and
+               print formatting.

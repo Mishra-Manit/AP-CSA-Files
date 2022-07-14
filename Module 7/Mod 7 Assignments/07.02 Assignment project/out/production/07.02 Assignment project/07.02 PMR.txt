@@ -1,0 +1,21 @@
+PROJECT TITLE: CheeseCakeV1
+PURPOSE OF PROJECT: make a table for calculating the different materials needed to make a cheesecake
+VERSION or DATE: 3/6/22
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to understand most of what was going on. I was able to make the different
+      calculations and initialize arrayLists.
+
+
+<-S>: I did not understand a few things such as making an arrayList for the cake object. I also
+      had some trouble getting the toString() method to work.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to review the concepts more in depth, and I will make sure to
+               play around with the program a bit more in order to understand everything going
+               on. I will also take more in depth notes so that I do not need to go back into
+               the lesson to review anything.

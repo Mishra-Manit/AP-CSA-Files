@@ -1,0 +1,17 @@
+PROJECT TITLE: Secret Password
+PURPOSE OF PROJECT: Program that generates random passwords; the user should be able to select the length.
+VERSION or DATE: 11/13/2021
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: From this project, I strengthened my skills in using while loops, and making code where
+      the user can enter "Y" or "N" in order to continue or exit the program. I also
+
+
+<-S>:
+
+
+**********************************************************************************************
+
+In the future:

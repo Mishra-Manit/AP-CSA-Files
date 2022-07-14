@@ -1,0 +1,82 @@
+Manit Mishra
+11/23/2021
+05.04 Instances of a Class 
+
+
+Implementation class on the left. Client class on the right
+Part 1
+Follow the directions to complete each step and fill in the blanks for the implementation class.
+
+From your worksheet in Assignment 5.03, choose one of your categories and its associated objects to fill out the template below:
+Insert your category name from Assignment 5.03. Class names should be capitalized.
+
+public class Basketball Player
+{
+
+Declare a variable type and name for two your objects’ attributes. Attributes are characteristics of your object. These are called private instance variables.
+
+private Int jerseyNumber;
+private Double dribblesPerMinute;
+
+
+Insert the class name for the constructor. This should match exactly to the class name you have above. The constructor is a special type of method that is used to create the objects.
+
+Inside the parathesis, include the two parameters that will be used to initialize your object’s attributes. While these have a 1:1 correlation to your instance variables above, they should have different names. The parameters need to include their type and name. For example, int age or String name.
+
+
+public BasketballPlayer( int jerseyNumber , Double dribblesPerMinute )
+{
+}
+
+Set the instance variable equal to the local variable (the parameter you used in the constructor)
+
+   jerseyNumber = 24;
+   dribblesPerMinute = 60;
+}
+
+From your worksheet in Assignment 5.03, complete the method headers by entering the names of your object’s behaviors. You do not need to complete the method body at this time.
+
+public void jump()
+{
+   //some code;
+}
+
+public void dribble()
+{
+   //some code;
+}
+
+Part 2
+In Part 1 you completed the structure for your class. In this part you will complete the structure for the tester or client class. This class contains the main() method used to run the program, creates the objects, and calls their methods.
+
+Follow the directions to complete each step and fill in the blanks for the client class.
+
+Enter your class name above.
+
+public class BasketballPlayerTester
+{
+   public static void main(String[]args)
+{
+
+
+Create 3 new objects from your class using the parameters in your constructor in Part 1. Use the example and explanation below to help complete the statement.
+
+Animal cat = new Animal(“brown”, 3);
+Animal is the class
+cat is the name of the object
+Animal is also the constructor
+brown is an attribute
+3 is an attribute
+
+BasketballPlayer Player 1 = new BasketballPlayer (4 , 80)
+BasketballPlayer Player 2 = new BasketballPlayer (9 , 60)
+BasketballPlayer Player 3 = new BasketballPlayer (24 , 75)
+
+Create two calls to one of your object’s methods. Use the example and explanation below to help complete the statement.
+
+cat.meow();
+cat is the name of the object
+meow() is the name of the method
+
+Player1.dribble();
+Player1.jump();

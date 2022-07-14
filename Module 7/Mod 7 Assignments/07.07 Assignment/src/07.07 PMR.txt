@@ -1,0 +1,23 @@
+PROJECT TITLE: ElectionTesterV6 & ElectionTesterV8
+PURPOSE OF PROJECT: Display all results of an election with select candidates. Also make
+                    classes in order to change all of the different aspects of these
+                    different candidates. Do all of this with the use of Arrays and ArrayLists
+VERSION or DATE: 3/8/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to understand a majority of the changes being done to the array. I was able
+      to make use of the for loops in order to do everything I needed.
+
+
+<-S>: I did not fully understand how to use the for loops in the Deletions lesson, and I had
+      to go back and review it. I also had trouble understanding how to set up the for loop
+      in order to delete things from the array.
+
+
+**********************************************************************************************
+
+In the future: Eventually after a lot of thinking and reviewing, I understood how the for-loops
+               worked. For every chapter I will make sure to spend more time reviewing the concepts
+               so that I completely understand what is going on.

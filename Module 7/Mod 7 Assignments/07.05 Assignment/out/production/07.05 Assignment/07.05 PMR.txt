@@ -1,0 +1,25 @@
+PROJECT TITLE:
+PURPOSE OF PROJECT: Create a mock election project to demonstrate traversal algorithms, using the
+                    results of a mock election with an arrays and ArrayList. Display all results
+                    of an election with select candidates. Also make classes in order to change
+                    all of the different aspects of these different candidates. Do all of this
+                    with the use of Arrays and ArrayLists.
+VERSION or DATE: 3/7/22
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to put my previous knowledge of arrays and arrayLists to use. The assignment
+      was fairly simple and easy as no main new concepts were introduced.
+
+
+<-S>: I struggled to figure out how to set up the for loops, but after going through the lesson
+      I figured out how to do them.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to definitely take more time in reviewing the practice programs
+               given because they often encompass the lesson best. It is also very helpful
+               I am able to mess around with the program and get more familiar with the concepts
+               covered.

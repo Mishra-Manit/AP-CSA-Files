@@ -1,0 +1,20 @@
+PROJECT TITLE: Hurricane
+PURPOSE OF PROJECT: Make a table for calculating all the different aspects of a hurricane with the
+                    given data from a file.
+VERSION or DATE: 3/6/22
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to make all arrayLists and logic. It gave me more practice in working with
+      both arrayLists and Arrays.
+
+
+<-S>: I got confused on how to separate the range from the main list. It took me some time to
+      figure out how to align everything in the toString() method.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to review previous concepts in order to make sure I do not
+               forget anything. I will also take more time to review given concepts.

@@ -1,0 +1,24 @@
+PROJECT TITLE: CurrencyV1
+PURPOSE OF PROJECT: The Currency class converts an amount of money from a specific
+                    country into the equivalent currency of another country given
+                    the current exchange rate.
+VERSION or DATE: 10/9/2021
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: After finshing this assignment, I got more familiar with using different arithmetic
+      operators. I also got some practice in using casting to make sure that the output is
+      either an int, or a double.
+
+
+<-S>: I messed up many times in formatting the print statements. I also messed up many times
+      in writing the proper formulas in the proper places. I also need to work on defining the
+      right variables in the right parts of the code.
+
+
+**********************************************************************************************
+
+In the future: I will makes sure to spend some time to practice formatting print statements, so
+               it is not as hard next time. I will also make sure to make the code look nicer
+               by defining the variables in the right places.

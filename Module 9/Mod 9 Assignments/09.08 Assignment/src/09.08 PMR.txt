@@ -1,0 +1,20 @@
+PROJECT TITLE: PrimeNumbers & PrimeNumbersTester
+PURPOSE OF PROJECT: Find and print all the prime numbers for the given range
+VERSION or DATE: 3/27/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to understand how to do this assignment, and it was pretty straightforward.
+
+
+<-S>: It took me some time to get all of the logic correct and to make sure that everything
+      worked the way that it was supposed to. The part that took the longest was developing
+      the logic for determining if the number was a prime number or not. It also took me some
+      time to perfect the output.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to spend more time playing around with the programs in order
+               to understand every single part of the code and how they all work together.

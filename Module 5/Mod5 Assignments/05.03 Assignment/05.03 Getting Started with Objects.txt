@@ -1,0 +1,45 @@
+Manit Mishra
+
+11/23/2021
+
+05.03 Getting Started with Objects 
+
+
+
+Pick one of the listed categories and name three more objects that it might include.
+
+Category: Inside Objects
+
+Object 1: bed   Object 2: printer   Object 3: shelf
+
+Think of an unlisted category and identify five objects that it might include.
+
+New Category:  body parts
+
+Object 1: lungs   Object 2: hands   Object 3: feet
+
+Object 4: head   Object 5: hair
+
+Pick any object and make a list of five "sub-objects" the category might contain. For example, a dancer object is itself a category and could include a folk dancer, a Salsa dancer, a ballroom dancer, break dancer, and an ice dancer, etc.
+
+Object: engineer
+
+Sub-Object 1: Software Engineer   Sub-Object 2: Hardware Engineer
+
+Sub-Object 3: Electrical Engineer   Sub-Object 4: Chemical Engineer
+
+Sub-Object 5: Automotive Engineer
+
+Pick any object and list four of its physical characteristics (i.e. attributes) and two things it can do (i.e. behaviors). In terms of "behaviors," think in terms of actions (verbs). For example, dancers can spin, dogs can bark, boats can sink. Don't be too literal with the term behavior; have some fun with it.
+
+Object: Basketball players
+
+Attribute 1: jersey     Attribute 2: shoes
+
+Attribute 3: socks     Attribute 4: basketball
+
+Behavior 1: jump     Behavior 2: dribble
+
+In your own words, given what you know now, how do you define an object?
+
+An object is a broad term which can have subcategories. 

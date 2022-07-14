@@ -1,0 +1,21 @@
+PROJECT TITLE: BuyMovieTickets
+PURPOSE OF PROJECT: Print out a receipt of a movie ticket purchase.
+VERSION or DATE: 10/30/2021
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to do all of the parsing with no issues. I also strengthened my skills in
+      using indexes.
+
+
+<-S>: It took me a long time to figure out how to format the debit card number on the receipt,
+      because only the first seven digits had to be replaced by the "#"s. It also took a while
+      to do all of the work with indexing, and replacing characters.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to take notes for every small detail that was written in the
+               lessons. I will also make sure to do more of the EImacs practices, because those
+               helped a lot in reviewing the concepts.

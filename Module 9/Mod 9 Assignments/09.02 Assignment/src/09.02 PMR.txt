@@ -1,0 +1,17 @@
+PROJECT TITLE: Terrain
+PURPOSE OF PROJECT: Create many terrains and display all of their properties
+VERSION or DATE: 3/22/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: This concept was easy to grasp, and I was able to understand everything.
+
+
+<-S>: I had some trouble understanding the super stuff
+
+
+**********************************************************************************************
+
+In the future: I will make sure to go slowly through the eIMACS to understand everything that
+               is being taught.

@@ -1,0 +1,18 @@
+PROJECT TITLE: Student
+PURPOSE OF PROJECT: Create an array of Student Objects
+VERSION or DATE: 1/8/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I did not have many difficulties with this program because the reference program and the
+      lesson explaining that taught me all the necessary skills in order to do this assignment.
+
+
+<-S>: The formatting part with the printf statements took me a while to do.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to spend a more time getting comfortable with printf statements
+               because they are very important, and I am not very comfortable with them yet.

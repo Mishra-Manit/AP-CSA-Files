@@ -1,0 +1,20 @@
+PROJECT TITLE: PyTheorem
+PURPOSE OF PROJECT: To use the pythagorean theorem to find the length of the hypotenuse when 2 sides are given.
+VERSION or DATE: 10/17/2021
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: From this lesson, I got very familiar with the different math operators built into java.
+      I learned how to set parameters for the random function, and how to make some numbers
+      inclusive, and some numbers exclusive.
+
+
+<-S>: I kept forgetting to use casting while making the sides of the triangle, and another
+      thing I had trouble with was setting the parameters of the Math.random function.
+
+
+**********************************************************************************************
+
+In the future: I will make sure reread all of the concepts, and make sure to spend more time
+               practicing the concepts tought in the lessons.

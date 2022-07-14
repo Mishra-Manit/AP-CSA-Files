@@ -1,0 +1,18 @@
+PROJECT TITLE: Movie
+PURPOSE OF PROJECT: Sort the objects in the Movie array by ascending and descending
+VERSION or DATE: 3/13/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to understand everything being covered in insertion sort.
+
+
+<-S>: It took me some time to understand how to make the algorithms and I had to go through
+      everything a couple times.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to go through things a couple of times and experiment a lot
+               the given programs as they have great examples and you can mess around with them.

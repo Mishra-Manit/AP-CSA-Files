@@ -1,0 +1,22 @@
+PROJECT TITLE: StudentInfoCard
+PURPOSE OF PROJECT: Make a student info card telling a little bit more about yourself
+VERSION or DATE: 9/14/2021
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I had a better experience with IntelliJay than with BlueJ, as the UI of BlueJ is not
+      great. I figured out how to use print statements properly, and figured out the
+      difference between the 3 print statements.
+
+
+<-S>: Forgot a lot of the syntax while making a print statement.
+
+
+**********************************************************************************************
+
+In the future: I will keep practicing the topics given. I also started testing the code more
+	       often to make sure there are no errors. I also realized how important notes are, 
+	       and how often I referred back to them. I established a note-taking system, and 
+	       have set up everything for
+      	       good notetaking.

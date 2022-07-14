@@ -1,0 +1,21 @@
+PROJECT TITLE: Secret Password
+PURPOSE OF PROJECT: Program that generates random passwords; the user should be able to select the length.
+VERSION or DATE: 11/13/2021
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: From this project, I strengthened my skills in using while loops, and making code where
+      the user can enter "Y" or "N" in order to continue or exit the program. I also got more
+      familiar with the while loops, and putting for loops inside of them.
+
+
+<-S>: I had some trouble making the while loop where I had to write the passwords onto the
+      text file. I also had trouble generating the ASCII values with math.random, and also
+      with writing the ASCII characters into a string.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to spend more time reviewing all of the concepts of tought
+               throughout the lessons, so that I can have a better understanding of them.

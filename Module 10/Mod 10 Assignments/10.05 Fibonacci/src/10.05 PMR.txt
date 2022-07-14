@@ -1,0 +1,22 @@
+PROJECT TITLE: Fibonacci
+PURPOSE OF PROJECT: Calculate the fibonacci number based on the user input given
+VERSION or DATE: 4/11/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: For this assignment, I was able to understand how everything works, and how I was
+      supposed to write a recursive statement. I also understood how I needed to format the
+      program.
+
+
+<-S>: The only thing I had trouble doing was calling the calcFibonacci method from the main
+      method. I had some trouble formatting the statements and figuring out how to make the
+      user quit the program. After messing around for a little bit, I figured out how I could
+      get the user to quit the program.
+
+
+**********************************************************************************************
+
+In the future: I will spend more time looking at the given lessons and examples, as they have
+               great content that will most likely be covered during the actual assignment.

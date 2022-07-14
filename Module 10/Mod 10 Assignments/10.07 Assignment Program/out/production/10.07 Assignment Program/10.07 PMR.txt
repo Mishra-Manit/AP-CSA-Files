@@ -1,0 +1,22 @@
+PROJECT TITLE: Product & StoreTester
+PURPOSE OF PROJECT: Create and Sort the products of a shop
+VERSION or DATE: 4/18/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: For this assignment, I was able to understand how to use all of the algorithms in order
+      to sort with the given requirements. The sorting was a good refresh on how all of the
+      algorithms work.
+
+
+<-S>: It took me a long time to get the merge sort algorithm to work properly. It took me a
+      while to understand how it worked, and how to apply it to the given problem at hand.
+
+
+**********************************************************************************************
+
+In the future: I will spend more time understanding the given code from the lesson. Usually the
+               lessons provide the sample code which help further understanding the topic taught
+               in the lesson. I will also spend more time understanding the algorithms as they
+               are very important.

@@ -1,0 +1,19 @@
+PROJECT TITLE: Catapult & CatapultTester
+PURPOSE OF PROJECT: Print out a table of distances the projectile will go with the specific
+                    speed and angles given
+VERSION or DATE: 3/19/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to understand how to use nested for loops for operating the 2d array.
+
+
+<-S>: I had some troubles printing and formatting the output. I eventually got it, but it took
+      a while.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to spend more time messing around with the program and changing
+               the values in order to fully understand how the program works.

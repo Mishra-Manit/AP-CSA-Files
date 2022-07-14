@@ -1,0 +1,20 @@
+PROJECT TITLE: CalculationsV6
+PURPOSE OF PROJECT: Print many different expressions with different operations
+VERSION or DATE: 9/25/21
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I figured out how to use the "+" symbol for customizing print statements and also learned
+      how to use different assigning operators for different types of data. I also got a deeper
+      understanding of how to format code so that it looks less cluttered and neater.
+
+
+<-S>: In the start, I got many errors for assigning floating point numbers without the "double"
+      assigner. 
+
+
+**********************************************************************************************
+
+In the future: I will make sure to make better formatted codes. I will also make sure to go
+               the code at each step of the way to make sure there are no errors.

@@ -1,0 +1,20 @@
+PROJECT TITLE: GradeBook
+PURPOSE OF PROJECT: Create a gradebook with an ArrayList of Students
+VERSION or DATE: 3/9/22
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to understand and create the methods for all the required algorithms. I was
+      able to understand and create the correct output.
+
+
+<-S>: I had some trouble with the insertStudentBefore method, but after reviewing concepts
+      tought in the previous lessons, I was able to complete that method as well.
+
+
+**********************************************************************************************
+
+In the future: I will continue to make good notes as well as practice all covered concepts
+               so that I do not forget the covered concepts and also so that I am able to use
+               the new things taught.

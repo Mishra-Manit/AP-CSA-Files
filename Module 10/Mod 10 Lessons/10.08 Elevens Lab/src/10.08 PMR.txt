@@ -1,0 +1,18 @@
+PROJECT TITLE: Card, CardTester, Deck, DeckTester
+PURPOSE OF PROJECT: Create a deck of cards in order to perform different tasks on it.
+VERSION or DATE: 4/19/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to complete the assignment with ease. I was able to set up all of the required
+      items needed to make the program run perfectly.
+
+
+<-S>: It took me some time to figure out that I needed a nested for loop in the constructor.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to keep reviewing all of the concepts taught, as well as make
+               sure I know everything being taught.

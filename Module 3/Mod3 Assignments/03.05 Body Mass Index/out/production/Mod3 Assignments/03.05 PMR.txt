@@ -1,0 +1,21 @@
+PROJECT TITLE: Body Mass Index Calculator
+PURPOSE OF PROJECT: Calculate the BMI of someone with the height and weight given
+VERSION or DATE: 11/6/2021
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: While working on this, I got a much better understand of how the parameters on the else
+      and else if blocks worked. I also got much better at being able to use input scanners,
+      as well as Parse inputs.
+
+
+<-S>: In the beginning, it was difficult to get the parameters of the else blocks working. I
+      also had a lot of trouble figuring how to round the numbers to the nearest tenth.
+
+
+**********************************************************************************************
+
+In the future: Because I had forgotten the formula for rounding the numbers to the nearest
+               tenth, I will make sure to note down all of the formulas, and helpful snippets
+               of code provided throughout the lessons.

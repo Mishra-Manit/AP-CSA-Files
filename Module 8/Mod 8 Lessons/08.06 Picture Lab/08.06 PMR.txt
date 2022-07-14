@@ -1,0 +1,18 @@
+PROJECT TITLE: Picture Explorer
+PURPOSE OF PROJECT: Explore the picture project given.
+VERSION or DATE: 3/19/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to understand everything that was provided.
+
+
+<-S>: I had some troubles calculating the column total, but after messing around with the 
+	program for a little bit, I understood how to do it.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to explore more of the given programs so that I understand 
+	   	   everything that is being taught.

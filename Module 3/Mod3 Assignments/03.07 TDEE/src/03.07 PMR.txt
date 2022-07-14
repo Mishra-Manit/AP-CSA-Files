@@ -1,0 +1,21 @@
+PROJECT TITLE: TDEE
+PURPOSE OF PROJECT: Calculate the TDEE with the given gender, BMR, and activity level
+VERSION or DATE: 11/7/2021
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: Through this assignment, I got more familiar with using else and else if methods. I also
+      got more practice on parsing and scanner methods.
+
+
+<-S>: I did not realize that I was putting semi-colons after every else block. That took
+      me a long time to realize, and it was stopping my code from working. I had also forgotten
+      to put the curly braces around the code inside the if statements.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to look more closely at my code to find errors. I will also
+               make sure to note down the very small details that are mentioned in the lessons,
+               so that I remember them while doing the assignments and tests.

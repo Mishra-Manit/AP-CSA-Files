@@ -1,0 +1,21 @@
+PROJECT TITLE: CityWeatherV2
+PURPOSE OF PROJECT: Displays the Temperatures and Precipitation of Apalachicola, Florida.
+VERSION or DATE: 12/30/2021
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: This assignment helped me learn more about the printf statements and how to use the
+      different formatting statements in order to make my output look nicer.
+
+
+<-S>: On this assignment, I kept getting stuck on the conversions because I could not figure
+      out how to change all of the values of an array. I also got stuck for a while trying to
+      figure out how to format all of the values into one table.
+
+
+**********************************************************************************************
+
+In the future: In order to get more comfortable with the new concepts being taught, I will make
+               sure to play around with the programs and mess around with the given programs
+               in order to get more comfortable with the concepts.

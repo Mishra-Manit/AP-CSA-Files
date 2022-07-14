@@ -1,0 +1,22 @@
+PROJECT TITLE: MakingMethodCalls
+PURPOSE OF PROJECT: Without modifying any of the method signatures, correct add method calls to the already created methods in the main() below
+VERSION or DATE: 10/24/2021
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: From this lesson, I learned how to call and define methods. I also learned how to set
+      parameters in these methods, and how to use the parameters. I also learned about the
+      different types of methods such as void methods with methods, without methods, and with
+      return.
+
+
+<-S>: I kept forgetting how to call the methods, and needed to refer back to my notes quite a
+      bit. I also had trouble with the return method, and how to call it.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to take more thorough notes, because I refer back to them quite
+               a bit. I will also make sure to go through the lesson closely, because there were
+               many small details that were helpful later on.

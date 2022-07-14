@@ -1,0 +1,23 @@
+PROJECT TITLE: Family
+PURPOSE OF PROJECT: Calculate the probability that a family with two children will consist 
+		    of two boys, a boy and a girl, or two girls.
+VERSION or DATE: 11/11/2021
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: From this program, I stengthened my skills in opening and reading files. I also got
+      practice on the different types of methods that can be used in opening and calling
+      different text files.
+
+
+<-S>: I kept forgetting the "Scanner inFile = new Scanner(fileName);" line, and I had to go
+      back to examples that were previously provided in order to find why my code was working.
+
+
+**********************************************************************************************
+
+In the future: When I am learned a new topic that was not covered previously, I will make a
+               copy of the program in my notes, so that I can refer back to the notes, and see
+               how to format the code. I will also pay attention to the small details of the code
+               and make sure I have each aspect of the code.

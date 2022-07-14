@@ -1,0 +1,20 @@
+PROJECT TITLE: MathTrick
+PURPOSE OF PROJECT: Create a math trick with the input given by the user.
+VERSION or DATE: 11/21/2021
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: After making this program, my skills in defining methods and calling them in the main
+      class got strengthened. This program made me review all of the skills I have learned so
+      far, and all of the concepts that I have reviewed.
+
+
+<-S>: For this program, I had many troubles trying to get the for loop parameters right
+      because I needed the loop to run backwards, and not forwards.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to spend more time understand all the concepts of the lesson,
+               as well as spend more time understand the example programs provided.

@@ -1,0 +1,20 @@
+PROJECT TITLE: Music & MusicTesterV3
+PURPOSE OF PROJECT: Search through the array of Music objects to see if any of the categories match.
+VERSION or DATE: 3/18/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to understand the concept of binary searches and had no issues with this
+      assignment.
+
+
+<-S>: I had some troubles on how to start the assignment. I was also a little confused on how
+      to use the linearPrintLoc method and how the binary search worked with multiple results.
+      In order to get by this, I had to refer back to the example program many times.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to experiment more with the given programs as they have all of
+               the concepts taught in the lesson.

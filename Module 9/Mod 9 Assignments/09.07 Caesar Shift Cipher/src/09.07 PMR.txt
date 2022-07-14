@@ -1,0 +1,19 @@
+PROJECT TITLE: Caesar Encryption & Decryption
+PURPOSE OF PROJECT: Test the encryption and decryption classes with a shift in the alphabet
+VERSION or DATE: 3/27/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to construct basically all of the required elements of the project.
+
+
+<-S>: I got stuck on some of the debugging for the encryption and decryption. It also took me
+      a long time to figure out that I needed to introduce a shift of 23 letters instead of 3
+      letters in order to decode the message in the assignment page.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to continue experimenting with the programs that I am making
+               in order to understand everything that is going on.

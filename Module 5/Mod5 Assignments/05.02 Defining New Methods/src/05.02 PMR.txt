@@ -1,0 +1,20 @@
+PROJECT TITLE: Planet Gravity
+PURPOSE OF PROJECT: Write a program to determine the surface gravity (g) on a planet in our solar system.
+VERSION or DATE: 11/23/2021
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: For this project, I already knew all of the necessary concepts in order to make this
+      program.
+
+
+<-S>: It took me a while to remember how to format the output screen, and I had also forgotten
+      to put all of the different components of the program into separate methods.
+
+
+**********************************************************************************************
+
+In the future: In the future I will always remember to keep all of the different components of
+               the program into different methods, and then call all of the different methods
+               in the main method.

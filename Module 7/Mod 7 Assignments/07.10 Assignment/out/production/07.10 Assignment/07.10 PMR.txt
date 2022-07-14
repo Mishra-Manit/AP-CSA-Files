@@ -1,0 +1,19 @@
+PROJECT TITLE: Movie
+PURPOSE OF PROJECT: Sort through an array of Movies by their titles, years of release, and studios
+VERSION or DATE: 3/14/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to understand the concepts covered and how to make the loops.
+
+
+<-S>: This lesson was very similar to the previous lesson the insertion sort. I can already
+      tell I will forget how to do this in a few lessons.
+
+
+**********************************************************************************************
+
+In the future: Since this lesson is very hard to remember, I will make sure to have it in my
+               notes so that I can refer back to it later. I will also make more notes about
+               all concepts covered so that I can review them all later on.

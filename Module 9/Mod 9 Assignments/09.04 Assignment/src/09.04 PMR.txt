@@ -1,0 +1,20 @@
+PROJECT TITLE: ShapesTester
+PURPOSE OF PROJECT: Display all the shapes created and test if some of them are equal to each
+                    other
+VERSION or DATE: 3/26/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to understand everything being taught and how to make the methods. I also
+      understood how polymorphism and overriding methods work.
+
+
+<-S>: It took some time for me to make the equals tester method in the main tester class
+      because I did did not import the whole arrayList.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to read through all the given materials to understand everything
+               being explained to me.

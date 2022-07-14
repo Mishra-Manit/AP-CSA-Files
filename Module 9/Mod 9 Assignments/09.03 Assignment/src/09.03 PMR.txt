@@ -1,0 +1,19 @@
+PROJECT TITLE: CircularTester
+PURPOSE OF PROJECT: Print out the centers of each object created
+VERSION or DATE: 3/23/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I understood how to use polymorphism to keep everything as a Circle2. This allows us to
+      keep the data much more organized. In order to get which specific Circle, you have to
+      use the getClass and getName. From there you can print the results
+
+
+<-S>: I had some trouble getting the loops set up in order to traverse through the arrayList
+
+
+**********************************************************************************************
+
+In the future: I will make sure to go slowly through the eIMACS to understand everything that
+               is being covered in the materials provided.

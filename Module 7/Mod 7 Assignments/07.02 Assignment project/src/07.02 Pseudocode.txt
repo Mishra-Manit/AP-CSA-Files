@@ -1,0 +1,9 @@
+Program Start
+Create ArrayList cake
+Add many cheesecakes to this arraylist
+Loop through the cakes and calculate the values; totalServings, sugar, CreamCheese, Vanilla
+Print out the table
+Format the results of the calculations
+Print everything
+Program end
+

@@ -1,0 +1,19 @@
+PROJECT TITLE: Picture & Picture Tester
+PURPOSE OF PROJECT: Explore the picture project given.
+VERSION or DATE: 3/20/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to understand everything that was provided.
+
+
+<-S>: I had some troubles understanding how to set up the program to duplicate the pixels. 
+	After I drew it out on my notebook and reviewed the given concepts, I was able to 
+	understand how to make these nested for loops and their given parameters.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to draw out a model of the 2d arrays in order to understand the
+		   assignment better.

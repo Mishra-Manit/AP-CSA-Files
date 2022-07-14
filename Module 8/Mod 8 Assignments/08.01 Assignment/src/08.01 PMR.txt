@@ -1,0 +1,19 @@
+PROJECT TITLE: Music & MusicTesterV1
+PURPOSE OF PROJECT: Search through the array of Music objects to see if any of the categories match.
+VERSION or DATE: 3/17/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to understand the concept of sequential searches and had no issues with this
+      assignment.
+
+
+<-S>: It took me a while to stop looping through the whole array. I then started using break
+      statements and the found counter.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to experiment more with the given programs as they have all of
+               the concepts taught in the lesson.

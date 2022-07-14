@@ -1,0 +1,19 @@
+PROJECT TITLE: Contacts & ContactsTester
+PURPOSE OF PROJECT: Search through the array of Contacts to find the things requested.
+VERSION or DATE: 3/18/2022
+AUTHORS: Manit Mishra
+
+************************************P M R****************************************************
+
+<+S>: I was able to understand the concept of binary searches and sequential searches had no
+      issues with this assignment.
+
+
+<-S>: I had some troubles understanding the linearPrint function. It also took some time to
+      make all the binary and sequential searches.
+
+
+**********************************************************************************************
+
+In the future: I will make sure to do more desk checks on the given methods so that I can
+               understand what is going on.
